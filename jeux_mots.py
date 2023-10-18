@@ -22,7 +22,7 @@ def contient_voyelle(mot):
         i=i+1
     return test
 
-print(contient_voyelle('mot'))
+print(contient_voyelle('nadia'))
 
 
 #parcours à l'envers
