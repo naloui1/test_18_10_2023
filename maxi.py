@@ -3,8 +3,7 @@ def maximum(a,b):
     if a <b:
         max=b
     else:
-        max=a
-    print max #1added for git
+        max=a    
     return max
 
 print(maximum(4,1))
