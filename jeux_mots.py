@@ -7,7 +7,7 @@ def  commence_par(lettre,mot):
         return False
     
 print(commence_par('h','hello'))
-print(commence_par('e','hello'))
+print(commence_par('o','hello'))
 
 #2) Ecrire une fonction contient_voyelle qui prend en argument un mot et qui renvoie True si le mot 
 #contient une voyelle, False sinon.
