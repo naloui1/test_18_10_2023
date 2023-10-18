@@ -12,7 +12,7 @@ print(maximum(4,1))
 def maximum3(a,b,c):
     max=maximum(a,b)
     max=maximum(max,c)
-    print max #2added for git
+    
     return max
 
 
