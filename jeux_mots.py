@@ -42,7 +42,7 @@ def derniere_consonne(mot):
             i=i-1
     return indice,mot[indice]
 
-print(derniere_consonne('arrivee'))
+print(derniere_consonne('depart'))
 #4)
 def double_consonne(mot):
     test=False
