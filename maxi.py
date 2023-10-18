@@ -24,7 +24,7 @@ def maximum3_input():
         b=int(input('Entier?'))  
         a.append(b) 
     max=maximum3(a[0],a[1],a[2])
-    print max #3added for git
+    
     return max
 
 
